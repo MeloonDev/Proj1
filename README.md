@@ -1,2 +1,7 @@
-# Proj1
-pierwszy przykładowy project
+# Klikacz obrazkowy
+
+## opis
+lorem
+
+## Licencja
+opis
